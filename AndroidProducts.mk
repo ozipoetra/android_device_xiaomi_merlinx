@@ -8,6 +8,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_merlinx.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_merlinx-user \
-    lineage_merlinx-userdebug \
-    lineage_merlinx-eng
+    lineage_merlinx-ap1a-user \
+    lineage_merlinx-ap1a-userdebug \
+    lineage_merlinx-ap1a-eng
